@@ -1,0 +1,19 @@
+{
+  "name": "schedule-planning-skills",
+  "owner": {
+    "name": "Cel3brimbor"
+  },
+  "metadata": {
+    "description": "Agent skills for planning study and work time on a calendar.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "schedule-planning-skills",
+      "description": "Study scheduling skills such as successive relearning.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/successive-relearning"]
+    }
+  ]
+}
