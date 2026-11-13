@@ -10,10 +10,10 @@
   "plugins": [
     {
       "name": "schedule-planning-skills",
-      "description": "Study scheduling skills such as successive relearning.",
+      "description": "Study and deadline planning skills such as successive relearning and deadline backplanning.",
       "source": "./",
       "strict": false,
-      "skills": ["./skills/successive-relearning"]
+      "skills": ["./skills/deadline-backplanner", "./skills/successive-relearning"]
     }
   ]
 }

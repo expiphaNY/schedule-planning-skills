@@ -5,6 +5,7 @@ Agent skills for planning study and work time on a calendar. Each skill is a fol
 | Skill | What it does |
 |---|---|
 | [successive-relearning](skills/successive-relearning/SKILL.md) | Spaced retrieval-practice study blocks, with same-day relearn blocks and a dose set by course difficulty. |
+| [deadline-backplanner](skills/deadline-backplanner/SKILL.md) | Plans backwards from a due date: 3–6 dated milestone tasks, a buffer before the deadline, and work sessions for the big steps. |
 
 ## Use them
 
